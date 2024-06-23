@@ -1,5 +1,5 @@
 # 💫 About Me:
-Ben Eren Bartın Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri 3.sınıf öğrencisiyim. Mobil uygulama geliştirme ve web sitesi tasarımı ile uğraşıyorum
+Ben Eren Bartın Üniversitesi Bilgisayar Teknolojisi ve Bilişim Sistemleri 4.sınıf öğrencisiyim. Mobil uygulama geliştirme ve web sitesi tasarımı ile uğraşıyorum
 
 
 ## 🌐 Socials:
